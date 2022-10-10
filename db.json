@@ -1,0 +1,19 @@
+{ "aset_tanah" : [{
+  "id": 1,
+  "satker": "POLDA ACEH",
+  "luas_total": 400,
+  "persil": 1,
+  "keterangan": "-"
+}, {
+  "id": 2,
+  "satker": "POLDA RIAU",
+  "luas_total": 630,
+  "persil": 1,
+  "keterangan": "-"
+}, {
+  "id": 3,
+  "satker": "POLDA SUMATERA UTARA",
+  "luas_total": 630,
+  "persil": 1,
+  "keterangan": "-"
+}]}
