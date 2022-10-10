@@ -16,4 +16,10 @@
   "luas_total": 630,
   "persil": 1,
   "keterangan": "-"
+}],"aset_bangunan" : [{
+  "id": 1,
+  "satker": "POLDA ACEH",
+  "luas_total": 200,
+  "persil": 1,
+  "keterangan": "-"
 }]}
