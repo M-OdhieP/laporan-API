@@ -63,10 +63,11 @@
       "satker": "POLDA SUMATERA UTARA",
       "persil": 5,
       "keterangan": "-"
-    },
-  ], "kemajuan_fisik" : [ 
+    }
+  ],
+  "kemajuan_fisik": [
     {
-       "id": 1,
+      "id": 1,
       "satker": "POLDA JAWA TENGAH",
       "rencana": 93,
       "realisasi": 85,
