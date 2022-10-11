@@ -22,4 +22,19 @@
   "luas_total": 200,
   "persil": 1,
   "keterangan": "-"
-}]}
+}], "penghapusan" : [{
+  "id": 1,
+  "satker": "POLDA ACEH",
+  "persil": 1,
+  "keterangan": "-"
+}, {
+  "id": 2,
+  "satker": "POLDA SUMATERA BARAT",
+  "persil": 1,
+  "keterangan": "-"
+}, {
+  "id": 3,
+  "satker": "POLDA SUMATERA UTARA",
+  "persil": 1,
+  "keterangan": "-"
+}] }
