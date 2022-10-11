@@ -64,5 +64,14 @@
       "persil": 5,
       "keterangan": "-"
     }
+  ],
+  "kemajuan_fisik": [
+    {
+      "id": 1,
+      "satker": "POLDA JAWA TENGAH",
+      "rencana": 93,
+      "realisasi": 85,
+      "keterangan": "-"
+    }
   ]
 }
